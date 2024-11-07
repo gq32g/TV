@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-11-07 06:26:43" tvg-logo="https://live.fanmingming.com/tv/2024-11-07 06:26:43.png" group-title="更新时间",2024-11-07 06:26:43
+#EXTINF:-1 tvg-name="2024-11-07 18:18:16" tvg-logo="https://live.fanmingming.com/tv/2024-11-07 18:18:16.png" group-title="更新时间",2024-11-07 18:18:16
 url
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://dd.ddzb.fun/php/migu.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -18,11 +20,15 @@ https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-20.ctv
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -40,39 +46,47 @@ https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-19.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://dd.ddzb.fun/php/migu.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://113.15.186.162:8181/tsfile/live/1019_1.m3u8
+https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-20.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-3.m3u8
+http://112.234.23.81:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-24.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-1.ctv
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
 https://stream1.freetv.fun/tao-dian-ying-3.ctv
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$1920x1080
+http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
 https://stream1.freetv.fun/tao-dian-ying-2.ctv
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-http://39.98.201.151:9090/udp/225.1.8.38:8002
+http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$1920x1080
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
+https://stream1.freetv.fun/tao-dian-ying-1.ctv
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$1920x1080
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
+https://stream1.freetv.fun/tao-dian-ying-4.ctv
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$1920x1080
+http://39.98.201.151:9090/udp/225.1.8.38:8002
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://live.fanmingming.com/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
@@ -82,21 +96,17 @@ http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
 http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
 https://stream1.freetv.fun/jing-dian-dian-ying-10.ctv
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
-https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
 https://stream1.freetv.fun/a8fb7adb8dbbc9bb8251b6dca1f06bde4a42896fc3c871353438d667450360b1.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
-http://113.15.186.162:8181/tsfile/live/1008_1.m3u8
+https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
-http://222.218.158.76:8181/tsfile/live/1008_1.m3u8
+https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8
+#EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
+http://123.56.129.203:6968/rtp/225.1.8.203:9024
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
 http://123.56.129.203:4169/rtp/225.1.8.203:9024
-#EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
-http://123.56.129.203:4477/rtp/225.1.8.203:9024
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
 http://123.56.129.203:6068/rtp/225.1.8.203:9024
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
@@ -110,22 +120,24 @@ http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://live.fanmingming.com/tv/无线星河.png" group-title="🎬电影频道",无线星河
 http://205.185.123.236:8899/tvb/xinghe/stream.m3u8$1920x1080
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://live.fanmingming.com/tv/无线星河.png" group-title="🎬电影频道",无线星河
+http://8.137.59.151:3000/laoshu.php?key=66&id=13
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://live.fanmingming.com/tv/无线星河.png" group-title="🎬电影频道",无线星河
 http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
+https://stream1.freetv.fun/dong-sen-chao-shi-3.ctv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+http://8.137.59.151:3000/laoshu.php?key=66&id=56
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
 http://211.72.65.236:8525/.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-3.ctv
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🎬电影频道",东森超视
-http://42.51.0.238:9999/php2/xz4.php?id=23
+https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8

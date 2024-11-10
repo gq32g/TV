@@ -1,36 +1,42 @@
 更新时间,#genre#
-2024-11-10 18:16:40,url
+2024-11-11 06:26:36,url
 🎬电影频道,#genre#
-CHC家庭影院,http://118.81.166.89:8081/rtp/226.0.2.240:9820
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv
-CHC家庭影院,http://123.13.247.80:4000/rtp/225.1.4.209:1262$1920x1080
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
+CHC家庭影院,http://118.78.220.127:8686/rtp/226.0.2.240:9820$1920x1080
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://dd.ddzb.fun/php/migu.php?id=jtyy
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-21.ctv
+CHC家庭影院,http://123.13.247.80:4000/rtp/225.1.4.209:1262$1920x1080
+CHC家庭影院,https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv
 CHC家庭影院,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
+CHC家庭影院,http://118.81.166.89:8081/rtp/226.0.2.240:9820
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-20.ctv
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-8.ctv
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-16.ctv
 CHC动作电影,http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://118.81.166.89:8081/rtp/226.0.2.94:8012
+CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-9.m3u8
-CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
-CHC动作电影,https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-20.m3u8
-CHC动作电影,http://112.234.23.81:9901/tsfile/live/1013_1.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.ctv
 CHC动作电影,https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-19.m3u8
 CHC动作电影,https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-3.m3u8
 CHC动作电影,http://dd.ddzb.fun/php/migu.php?id=dzdy
 CHC动作电影,http://123.13.247.80:4000/rtp/225.1.4.208:1261$1920x1080
 CHC动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-9.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.m3u8
+CHC高清电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://118.81.166.89:8081/rtp/226.0.2.93:8004
@@ -49,19 +55,20 @@ NewTV惊悚悬疑,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8
 NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
-经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://123.13.247.80:4000/rtp/225.1.4.175:1233$1920x1080
+纬来电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandmovie
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://123.13.247.80:4000/rtp/225.1.4.175:1233$1920x1080
+经典电影,http://221.218.157.61:3527/rtp/239.3.1.195:9024$1920x1080
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8
-经典电影,http://221.218.157.61:3527/rtp/239.3.1.195:9024$1920x1080
+经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV经典电影,http://123.56.129.203:4746/rtp/225.1.8.203:9024
-IPTV经典电影,http://123.56.129.203:3746/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:934/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:7067/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:4169/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:2061/rtp/225.1.8.203:9024
 IPTV经典电影,http://123.56.129.203:2641/rtp/225.1.8.203:9024
+无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
 无线星河,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8$1920x1080
 无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$1920x1080
 无线星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
@@ -69,7 +76,7 @@ IPTV经典电影,http://123.56.129.203:2641/rtp/225.1.8.203:9024
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-3.ctv
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
-东森超视,http://211.72.65.236:8525/.m3u8
+东森超视,http://211.72.65.236:8525/.m3u8$1920x1080
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080

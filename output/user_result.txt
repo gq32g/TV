@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-30 18:26:03,url
+2024-12-31 06:32:08,url
 🎬电影频道,#genre#
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1142&tk=7877e7cc41c7
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
@@ -7,7 +7,7 @@ CHC家庭影院,http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv$1920x1080
 CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$1920x1080
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$1920x1080
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$1920x1080
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1148&tk=97475bb89d45
@@ -63,10 +63,10 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-8.m3u8$1920x108
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.m3u8$1920x1080
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 淘电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7175&tk=7877e7cc41c7
-淘电影,http://114.249.215.204:9888/udp/239.3.1.250:8001
+淘电影,http://114.249.215.204:9888/udp/239.3.1.250:8001$1920x1080
 淘电影,http://123.113.187.204:8000/udp/239.3.1.250:8001$1920x1080
 淘电影,http://222.129.139.229:8888/udp/239.3.1.250:8001$1920x1080
-淘电影,http://123.113.249.203:8888/udp/239.3.1.250:8001
+淘电影,http://123.113.249.203:8888/udp/239.3.1.250:8001$1920x1080
 淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001$1920x1080
 淘电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8273&tk=e503191f8e20
 淘电影,https://stream1.freetv.fun/tao-dian-ying-1.ctv$1920x1080
@@ -88,7 +88,7 @@ CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&p
 淘电影,http://114.249.230.215:9888/udp/239.3.1.250:8001$1920x1080
 淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001$1920x1080
 淘电影,http://114.249.229.24:8888/udp/239.3.1.250:8001$1920x1080
-淘电影,http://111.196.191.248:5555/rtp/239.3.1.250:8001
+淘电影,http://111.196.191.248:5555/rtp/239.3.1.250:8001$1920x1080
 淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$1920x1080
@@ -100,15 +100,15 @@ NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8
-经典电影,http://123.113.249.203:8888/udp/239.3.1.195:9024
+经典电影,http://123.113.249.203:8888/udp/239.3.1.195:9024$1920x1080
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8$1920x1080
-经典电影,http://114.249.215.204:9888/udp/239.3.1.195:9024
+经典电影,http://114.249.215.204:9888/udp/239.3.1.195:9024$1920x1080
 经典电影,http://114.249.230.215:9888/udp/239.3.1.195:9024$1920x1080
+经典电影,http://219.159.194.213:8181/tsfile/live/1008_1.m3u8
 经典电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4354&tk=e503191f8e20
-经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 经典电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2842&tk=7877e7cc41c7
-经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8
+经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$1920x1080
 经典电影,http://222.129.139.229:8888/udp/239.3.1.195:9024$1920x1080
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.m3u8$1920x1080
 经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv$1920x1080

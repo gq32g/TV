@@ -1,15 +1,12 @@
 Error: too many values to unpack (expected 3)
 Error: too many values to unpack (expected 3)
-Can not load response cookies: Illegal key 'session820/qualitor820'
-Can not load response cookies: Illegal key 'session820/qualitor820'
-Can not load response cookies: Illegal key 'session820/qualitor820'
 Error: too many values to unpack (expected 3)
 Error: too many values to unpack (expected 3)
-Name: CHC家庭影院, URL: http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8, Date: None, Resolution: None, Response Time: 730 ms
-Name: CHC家庭影院, URL: http://117.190.144.101:1111/tsfile/live/1018_1.m3u8, Date: None, Resolution: None, Response Time: 5228 ms
-Name: CHC家庭影院, URL: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8, Date: None, Resolution: None, Response Time: 510 ms
-Name: CHC家庭影院, URL: http://59.173.243.210:9901/tsfile/live/1031_1.m3u8, Date: None, Resolution: None, Response Time: 510 ms
-Name: CHC家庭影院, URL: http://58.19.38.162:9901/tsfile/live/1031_1.m3u8, Date: None, Resolution: None, Response Time: 488 ms
+Error: too many values to unpack (expected 3)
+Name: CHC家庭影院, URL: http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8, Date: None, Resolution: None, Response Time: 713 ms
+Name: CHC家庭影院, URL: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8, Date: None, Resolution: None, Response Time: 501 ms
+Name: CHC家庭影院, URL: http://59.173.243.210:9901/tsfile/live/1031_1.m3u8, Date: None, Resolution: None, Response Time: 513 ms
+Name: CHC家庭影院, URL: http://58.19.38.162:9901/tsfile/live/1031_1.m3u8, Date: None, Resolution: None, Response Time: 483 ms
 Name: CHC家庭影院, URL: https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC家庭影院, URL: http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC家庭影院, URL: https://stream1.freetv.fun/chcjia-ting-ying-yuan-5.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
@@ -32,10 +29,9 @@ Name: CHC家庭影院, URL: https://stream1.freetv.fun/chcjia-ting-ying-yuan-20.
 Name: CHC家庭影院, URL: https://stream1.freetv.fun/chcjia-ting-ying-yuan-21.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC家庭影院, URL: https://stream1.freetv.fun/chcjia-ting-ying-yuan-23.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC家庭影院, URL: https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: CHC动作电影, URL: http://117.190.144.101:1111/tsfile/live/1020_1.m3u8, Date: None, Resolution: None, Response Time: 5228 ms
-Name: CHC动作电影, URL: http://59.173.243.210:9901/tsfile/live/1012_1.m3u8, Date: None, Resolution: None, Response Time: 510 ms
-Name: CHC动作电影, URL: http://113.236.31.149:9901/tsfile/live/1101_1.m3u8, Date: None, Resolution: None, Response Time: 608 ms
-Name: CHC动作电影, URL: http://61.243.161.199:9901/tsfile/live/1101_1.m3u8, Date: None, Resolution: None, Response Time: 624 ms
+Name: CHC动作电影, URL: http://59.173.243.210:9901/tsfile/live/1012_1.m3u8, Date: None, Resolution: None, Response Time: 513 ms
+Name: CHC动作电影, URL: http://113.236.31.149:9901/tsfile/live/1101_1.m3u8, Date: None, Resolution: None, Response Time: 601 ms
+Name: CHC动作电影, URL: http://61.243.161.199:9901/tsfile/live/1101_1.m3u8, Date: None, Resolution: None, Response Time: 613 ms
 Name: CHC动作电影, URL: https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC动作电影, URL: https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC动作电影, URL: https://stream1.freetv.fun/chc-dong-zuo-dian-ying-2.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
@@ -64,8 +60,8 @@ Name: CHC动作电影, URL: https://stream1.freetv.fun/chcdong-zuo-gao-qing-1.m3
 Name: CHC动作电影, URL: https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-19.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC动作电影, URL: https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: CHC动作电影, URL: https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-18.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 501 ms
-Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 501 ms
+Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 484 ms
+Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 484 ms
 Name: 淘电影, URL: https://stream1.freetv.fun/tao-dian-ying-1.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 淘电影, URL: https://stream1.freetv.fun/tao-dian-ying-10.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 淘电影, URL: https://stream1.freetv.fun/tao-dian-ying-11.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
@@ -85,23 +81,23 @@ Name: 淘电影, URL: https://stream1.freetv.fun/tao-dian-ying-9.ctv$1920x1080, 
 Name: 淘电影, URL: http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 淘电影, URL: http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 淘电影, URL: http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 559 ms
-Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528 ms
-Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 559 ms
-Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528 ms
-Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8, Date: None, Resolution: None, Response Time: 526 ms
-Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538 ms
+Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 941 ms
+Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 600 ms
+Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 941 ms
+Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 600 ms
+Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8, Date: None, Resolution: None, Response Time: 616 ms
+Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 947 ms
 Name: 经典电影, URL: https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538 ms
-Name: 经典电影, URL: http://58.19.43.46:9901/tsfile/live/1012_1.m3u8, Date: None, Resolution: None, Response Time: 486 ms
+Name: 经典电影, URL: http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 947 ms
+Name: 经典电影, URL: http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 经典电影, URL: https://stream1.freetv.fun/jing-dian-dian-ying-9.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 经典电影, URL: https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:6850/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3626 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:8128/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3617 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:3307/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3335 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:5901/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3361 ms
-Name: 星空卫视, URL: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 531 ms
+Name: 经典电影, URL: http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 616 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:6850/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3464 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:8128/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3467 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:3307/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3491 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:5901/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3297 ms
+Name: 星空卫视, URL: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533 ms
 Name: 星空卫视, URL: https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 星空卫视, URL: https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 星空卫视, URL: https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
@@ -113,9 +109,9 @@ Name: 东森电影, URL: https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8$19
 Name: 东森电影, URL: https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 东森电影, URL: https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
 Name: 东森电影, URL: https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms
-Name: 东森电影, URL: https://bsex.serv00.net/Smart.php?id=ettvmovie, Date: None, Resolution: None, Response Time: 513 ms
-Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 127 ms
-Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 127 ms
+Name: 东森电影, URL: https://bsex.serv00.net/Smart.php?id=ettvmovie, Date: None, Resolution: None, Response Time: 644 ms
+Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 150 ms
+Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 150 ms
 Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 300 ms
 Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 300 ms
 Name: 东森超视, URL: https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 125 ms

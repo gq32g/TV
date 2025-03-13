@@ -1,16 +1,16 @@
 Error: too many values to unpack (expected 3)
 Can not load response cookies: Illegal key 'session820/qualitor820'
-Can not load response cookies: Illegal key 'session820/qualitor820'
 Error: too many values to unpack (expected 3)
 Error: too many values to unpack (expected 3)
-Name: CHC家庭影院, URL: http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8, Date: None, Resolution: None, Response Time: 698 ms
-Name: CHC家庭影院, URL: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8, Date: None, Resolution: None, Response Time: 405 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:6850/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3201 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:8128/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3210 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:3307/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3207 ms
-Name: IPTV经典电影, URL: http://123.56.129.203:5901/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3063 ms
-Name: 星空卫视, URL: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 426 ms
-Name: 东森电影, URL: https://bsex.serv00.net/Smart.php?id=ettvmovie, Date: None, Resolution: None, Response Time: 610 ms
+Name: CHC家庭影院, URL: http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8, Date: None, Resolution: None, Response Time: 683 ms
+Name: CHC家庭影院, URL: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8, Date: None, Resolution: None, Response Time: 399 ms
+Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 2963 ms
+Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 2963 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:6850/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3027 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:8128/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3044 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:3307/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3066 ms
+Name: IPTV经典电影, URL: http://123.56.129.203:5901/rtp/225.1.8.203:9024, Date: 2024-02-02, Resolution: None, Response Time: 3022 ms
+Name: 东森电影, URL: https://bsex.serv00.net/Smart.php?id=ettvmovie, Date: None, Resolution: None, Response Time: 665 ms
 Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 150 ms
 Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 150 ms
 Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 300 ms
